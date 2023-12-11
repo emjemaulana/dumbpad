@@ -1,4 +1,4 @@
-#include "romac_plus.dtsi"
+#include "Dumbpad.dtsi"
 
 / {
     chosen {
